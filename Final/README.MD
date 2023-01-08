@@ -1,6 +1,7 @@
 參考 ：https://www.youtube.com/watch?v=-RCnNyD0L-s&ab_channel=WebDevSimplified
 
 Step 1 compress node module
+
 Step 2 Run devstart = in bash terminal `npm run devStart`
 
 ![login](https://user-images.githubusercontent.com/99935414/211195078-a52308ea-3abb-4aa3-b231-c4715131ffef.png)
